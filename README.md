@@ -1,5 +1,5 @@
-# Project2-HSCZ-webProject
-스프링 부트_무역 정보 플랫폼
+# SpringProject-HSCZ
+스프링 부트_무역 정보 웹 플랫폼
 
 ## 💻 프로젝트 소개
 HS CODE 추천 기능을 포함한 무역 정보 플랫폼입니다.
