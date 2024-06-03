@@ -19,7 +19,7 @@ HS CODE 추천 기능을 포함한 무역 정보 플랫폼입니다.
 * IDE : STS 3.2.3
 * Framework : Springboot
 * Database : Oracle DB
-* ORM : JPA
+* ORM : Hibernate
 
 ## 📌 주요기능
 HS CODE 예측 기능
