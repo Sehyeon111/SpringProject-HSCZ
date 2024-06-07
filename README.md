@@ -23,7 +23,7 @@ HS CODE 추천 기능을 포함한 무역 정보 플랫폼입니다.
 
 ## 📌 주요기능
 HS CODE 예측 기능
-* RestTemplate 이용하여 python과 통신
+* RestTemplate 와 FastAPI를 이용하여 python과 통신
 * API를 이용하여 추가 관세, 통계 정보를 실시간으로 보여줌
 
 관세 상담 기능
